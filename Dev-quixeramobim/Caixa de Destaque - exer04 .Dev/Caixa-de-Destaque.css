@@ -1,0 +1,68 @@
+   *{
+   margin: 0%;
+   padding: 0%;
+}
+   .content{
+      background: white;
+      display: flex;
+      justify-content: center;
+   }
+   .card{
+      background-color: white;
+      border-radius: 20px;
+      box-shadow: 2px 2px 2px 2px;
+      margin: 200px;
+      text-align: center;
+   }
+   .close_button{
+      display: flex;
+      justify-content: end;
+   }
+   .close_button :hover{
+      border-radius: 20px;
+      box-shadow: 1px 1px 1px 1px;
+   }
+   .title{
+      color: crimson;
+      padding: 5px;
+   }
+   .image{
+      padding: 5px;
+   }
+   .legend{
+      color:brown;
+      padding: 5px;
+   }
+   .update{
+      color: indianred;
+      padding-bottom: 20px;
+   }
+
+   .actions :hover{
+      background-color: red;
+      color: white;
+      
+   }
+   .button01{
+      padding: 5px;
+      margin-right:20px ;
+      background: none;
+      border-radius: 3px;
+      border-color: red;
+      color: red;
+   }
+   .button02{
+      padding: 5px;
+      margin-right: 20px;
+      background: none;
+      border-radius: 3px;
+      border-color: red;
+      color: red;
+   }
+   .button03{
+      padding: 5px;
+      border-radius: 3px;
+      background: none;
+      border-color: red;
+      color: red;
+   }

@@ -1,0 +1,41 @@
+    *{
+        padding: 0px;
+        margin: 0px;
+        box-sizing: border-box;
+    }
+    .conteudo{
+        width: 100%;
+        height: 50vh;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+    .conteudo h1{
+        font-size: 15vw;
+        text-transform: uppercase;
+    }
+    footer{
+        width: 100%;
+        min-height: 250px;
+        background-color: rgb(49, 47, 47);
+        display: flex;
+        justify-content:center;
+    
+    }
+    .box{
+        width: 320px;
+        min-height:150px;
+        padding: 20px;
+    }
+    .box ul{
+        list-style: none;
+        color: aliceblue;
+    }
+    .box li a{
+        color: aliceblue;
+        text-decoration: none;
+    }
+    .box h2{
+        margin-bottom: 20px;
+        margin-top: 
+    }

@@ -1,0 +1,33 @@
+   #tit{
+   text-align: center;
+   color: black;
+}
+   #ft{
+      display: flex;
+      justify-content: center;
+      
+}
+
+   #desc{
+   text-align: center;
+   color: black;
+}
+
+   #contas{
+   display:inline-block;
+   color: black;
+   margin-left: 50px;
+   border-style: double;
+
+}
+   #fund{
+      background-color:white;
+   }
+
+   #git{
+      color:deeppink;
+   }
+
+   #zap{
+      color: limegreen;
+   }
